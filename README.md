@@ -4,6 +4,12 @@
     <img src="https://img.shields.io/crates/v/ark.svg"/>
 </p>
 
+# Introduction
+
+<p align="center">
+    <a href="https://arkcommunity.fund/"><img src="https://arkcommunity.fund/media-kit/funded/banner.png" /></a>
+</p>
+
 ## Overview
 
 `Rust-Ark` is a wrapper for the Ark Ecosystem API written in Rust. An example application can be found [here](https://github.com/nalbech87/rust-ark-example).
